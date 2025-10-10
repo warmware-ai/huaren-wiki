@@ -7,7 +7,12 @@ const config = {
   url: 'https://wiki.warmware.ai',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+  hooks: {
+    onBrokenMarkdownLinks: 'warn',
+  },
+},
+
   favicon: 'img/favicon.ico',
 
   // 仅开启繁体（主语言）
