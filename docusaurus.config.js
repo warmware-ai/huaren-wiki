@@ -61,7 +61,7 @@ const config = {
     image: 'img/social-card.png',
     navbar: {
       title: 'Huaren Wiki',
-      logo: { alt: 'Huaren Wiki', src: 'img/logo.svg' },
+      logo: { alt: 'Huaren Wiki', src: 'img/huaren-wiki.png' },
       items: [
         { type: 'doc', docId: 'life-and-settlement/index', label: '🏠 生活與安居', position: 'left' },
         { type: 'doc', docId: 'work-and-business/index',   label: '💼 工作與經營', position: 'left' },
