@@ -1,1 +1,9 @@
-{ "label": "🌐 數位與通信服務", "position": 3, "collapsed": false }
+{
+  "label": "🌐 數位與通信服務",
+  "position": 3,
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "life-and-settlement/digital-and-comms/index"
+  }
+}

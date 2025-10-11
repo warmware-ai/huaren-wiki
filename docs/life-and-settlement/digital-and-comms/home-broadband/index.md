@@ -1,7 +1,6 @@
 ---
 title: 🏠 家庭寬頻與光纖（Fibra / ADSL）
 description: 供應商比較、安裝、套餐選擇、報修與解約。
-slug: /
 ---
 
 - 網路供應商比較

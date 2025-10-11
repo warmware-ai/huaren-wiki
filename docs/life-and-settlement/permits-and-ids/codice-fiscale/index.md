@@ -1,7 +1,6 @@
 ---
 title: 🧩 稅號（Codice fiscale）
 description: 稅號結構、申辦渠道與常見問題。
-slug: /
 ---
 
 - 稅號概念與結構

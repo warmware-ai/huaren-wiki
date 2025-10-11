@@ -1,1 +1,8 @@
-{ "label": "💳 銀行卡與轉帳", "collapsed": false }
+{
+  "label": "💳 銀行卡與轉帳",
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "life-and-settlement/banking-and-payments/cards-and-transfers/index"
+  }
+}

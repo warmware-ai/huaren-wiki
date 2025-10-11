@@ -1,7 +1,6 @@
 ---
 title: 🧾 居留與證件（Permessi e Documenti）
 description: 居留、稅號、身分證、醫療卡與 SPID 導覽。
-slug: /
 ---
 
 > 本頁為 **Level-2 導覽**，僅列本組所有主題（L3）。

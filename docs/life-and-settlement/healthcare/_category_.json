@@ -1,1 +1,9 @@
-{ "label": "🏥 醫療與健康", "position": 4, "collapsed": false }
+{
+  "label": "🏥 醫療與健康",
+  "position": 4,
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "life-and-settlement/healthcare/index"
+  }
+}

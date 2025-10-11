@@ -1,1 +1,8 @@
-{ "label": "🔏 數位身分與 PEC 郵箱", "collapsed": false }
+{
+  "label": "🔏 數位身分與 PEC 郵箱",
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "life-and-settlement/digital-and-comms/digital-identity-pec/index"
+  }
+}

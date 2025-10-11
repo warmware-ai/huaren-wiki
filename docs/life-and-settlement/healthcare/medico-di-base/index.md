@@ -1,7 +1,6 @@
 ---
 title: 🧑‍⚕️ 家庭醫生註冊（Medico di base）
 description: 制度、註冊、更換、跨區、無居留者處理。
-slug: /
 ---
 
 - 家庭醫生制度介紹

@@ -1,7 +1,6 @@
 ---
 title: 💶 銀行與支付（Banche e Pagamenti）
 description: 開戶、卡片轉帳、線上支付、國際匯款與稅務繳款導覽。
-slug: /
 ---
 
 > 本頁為 **Level-2 導覽**，僅列本組所有主題（L3）。

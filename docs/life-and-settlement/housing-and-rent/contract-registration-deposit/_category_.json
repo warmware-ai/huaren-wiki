@@ -1,1 +1,8 @@
-{ "label": "📝 合同註冊與押金", "collapsed": false }
+{
+  "label": "📝 合同註冊與押金",
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "life-and-settlement/housing-and-rent/contract-registration-deposit/index"
+  }
+}

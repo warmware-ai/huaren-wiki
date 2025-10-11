@@ -1,7 +1,6 @@
 ---
 title: 🌐 數位與通信服務（Servizi digitali e telecom）
 description: 手機卡、家用網路、數位身分、政務 App 與申訴導覽。
-slug: /
 ---
 
 > 本頁為 **Level-2 導覽**，僅列本組所有主題（L3）。

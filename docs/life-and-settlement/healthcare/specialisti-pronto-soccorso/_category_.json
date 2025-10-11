@@ -1,1 +1,8 @@
-{ "label": "🚑 專科與急診流程", "collapsed": false }
+{
+  "label": "🚑 專科與急診流程",
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "life-and-settlement/healthcare/specialisti-pronto-soccorso/index"
+  }
+}

@@ -1,7 +1,6 @@
 ---
 title: 💡 水電煤與垃圾費
 description: Utenze 開戶更名、帳單結構、支付與遷移結算。
-slug: /
 ---
 
 - 公用事業開戶與更名（Utenze）

@@ -1,7 +1,6 @@
 ---
 title: 🧾 線上政務與 App 使用
 description: 政府平台、IO/PagoPA、INPS/稅務與常用 App。
-slug: /
 ---
 
 - 政府平台全景與帳號整合

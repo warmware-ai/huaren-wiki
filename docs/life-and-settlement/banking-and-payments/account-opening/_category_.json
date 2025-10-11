@@ -1,1 +1,8 @@
-{ "label": "🏦 開戶流程與文件", "collapsed": false }
+{
+  "label": "🏦 開戶流程與文件",
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "life-and-settlement/banking-and-payments/account-opening/index"
+  }
+}

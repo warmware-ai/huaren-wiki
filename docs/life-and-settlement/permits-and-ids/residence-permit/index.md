@@ -1,7 +1,6 @@
 ---
 title: 🪪 居留（Permesso di soggiorno）
 description: 居留類型、申請、續簽與法律依據。
-slug: /
 ---
 
 - 居留類型與適用人群

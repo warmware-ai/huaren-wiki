@@ -1,1 +1,8 @@
-{ "label": "🧾 稅務繳款與公共支付（F24／PagoPA）", "collapsed": false }
+{
+  "label": "🧾 稅務繳款與公共支付（F24／PagoPA）",
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "life-and-settlement/banking-and-payments/taxes-f24-pagopa/index"
+  }
+}

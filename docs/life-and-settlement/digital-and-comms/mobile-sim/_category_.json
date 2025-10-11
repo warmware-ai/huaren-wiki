@@ -1,1 +1,8 @@
-{ "label": "📱 手機卡", "collapsed": false }
+{
+  "label": "📱 手機卡",
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "life-and-settlement/digital-and-comms/mobile-sim/index"
+  }
+}

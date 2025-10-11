@@ -1,1 +1,8 @@
-{ "label": "🌍 海外匯款與費率", "collapsed": false }
+{
+  "label": "🌍 海外匯款與費率",
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "life-and-settlement/banking-and-payments/international-remittance/index"
+  }
+}

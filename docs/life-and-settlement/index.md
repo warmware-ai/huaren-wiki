@@ -2,7 +2,6 @@
 id: index
 title: 🏠 生活與安居（Vita e Alloggio）
 description: 義大利華人日常安居指南總覽。
-slug: /
 ---
 
 > 本頁為 **Level-1 總覽**，列出所有主題組（L2）。

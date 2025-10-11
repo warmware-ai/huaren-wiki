@@ -1,1 +1,8 @@
-{ "label": "🗺️ 戶籍登記與遷移", "collapsed": false }
+{
+  "label": "🗺️ 戶籍登記與遷移",
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "life-and-settlement/housing-and-rent/residenza-and-move/index"
+  }
+}

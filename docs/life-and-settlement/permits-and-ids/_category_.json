@@ -1,5 +1,9 @@
 {
   "label": "🧾 居留與證件",
   "position": 1,
-  "collapsed": false
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "life-and-settlement/permits-and-ids/index"
+  }
 }

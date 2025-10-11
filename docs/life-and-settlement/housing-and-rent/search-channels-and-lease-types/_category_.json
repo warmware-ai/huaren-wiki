@@ -1,1 +1,8 @@
-{ "label": "🧭 找房渠道與租約類型", "collapsed": false }
+{
+  "label": "🧭 找房渠道與租約類型",
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "life-and-settlement/housing-and-rent/search-channels-and-lease-types/index"
+  }
+}

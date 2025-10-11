@@ -1,7 +1,6 @@
 ---
 title: 🏥 醫療與健康（Sanità e Salute）
 description: 家庭醫生、專科急診、掛號處方、疫苗體檢與私立診所導覽。
-slug: /
 ---
 
 > 本頁為 **Level-2 導覽**，僅列本組所有主題（L3）。

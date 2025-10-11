@@ -1,7 +1,6 @@
 ---
 title: 🧾 稅務繳款與公共支付（F24／PagoPA）
 description: F24 結構、PagoPA 繳費、自動扣款、記錄保存與退稅。
-slug: /
 ---
 
 - 稅單結構與 F24 表格

@@ -1,7 +1,6 @@
 ---
 title: 💊 掛號與處方（CUP / Ricetta）
 description: CUP 預約、處方類型、電子處方與報銷。
-slug: /
 ---
 
 - CUP 系統使用方法

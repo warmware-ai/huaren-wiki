@@ -1,7 +1,6 @@
 ---
 title: 🔐 數位身分與 SPID（Identità digitale）
 description: SPID 註冊、使用場景、PEC 與安全建議。
-slug: /
 ---
 
 - SPID 概念與重要性

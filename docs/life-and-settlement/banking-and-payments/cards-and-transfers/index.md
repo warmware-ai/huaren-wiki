@@ -1,7 +1,6 @@
 ---
 title: 💳 銀行卡與轉帳
 description: 借記/信用卡、IBAN、App 操作、遺失凍結與費用。
-slug: /
 ---
 
 - 借記卡／信用卡類型

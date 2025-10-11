@@ -1,1 +1,8 @@
-{ "label": "🪪 居留（Permesso di soggiorno）", "collapsed": false }
+{
+  "label": "🪪 居留（Permesso di soggiorno）",
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "life-and-settlement/permits-and-ids/residence-permit/index"
+  }
+}

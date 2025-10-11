@@ -1,1 +1,8 @@
-{ "label": "🧾 線上政務與 App 使用", "collapsed": false }
+{
+  "label": "🧾 線上政務與 App 使用",
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "life-and-settlement/digital-and-comms/online-e-gov-apps/index"
+  }
+}

@@ -1,1 +1,9 @@
-{ "label": "🏘️ 居住與租房", "position": 2, "collapsed": false }
+{
+  "label": "🏘️ 居住與租房",
+  "position": 2,
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "life-and-settlement/housing-and-rent/index"
+  }
+}

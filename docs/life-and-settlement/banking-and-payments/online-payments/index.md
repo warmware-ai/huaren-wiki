@@ -1,7 +1,6 @@
 ---
 title: 💸 線上支付（PagoPA／電商／行動支付）
 description: PagoPA、電商支付、行動錢包、安全與退款。
-slug: /
 ---
 
 - PagoPA 系統介紹與使用
