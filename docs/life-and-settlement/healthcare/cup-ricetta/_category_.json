@@ -1,8 +1,10 @@
 {
-  "label": "💊 掛號與處方（CUP / Ricetta）",
-  "collapsed": false,
+  "label": "掛號與處方（CUP / Ricetta）",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/healthcare/cup-ricetta/index"
-  }
+  },
+  "position": 3,
+  "collapsible": true
 }

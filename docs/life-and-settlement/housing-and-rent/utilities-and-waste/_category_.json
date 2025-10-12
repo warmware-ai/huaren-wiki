@@ -1,8 +1,10 @@
 {
-  "label": "💡 水電煤與垃圾費",
-  "collapsed": false,
+  "label": "水電煤與垃圾費（Utenze e TARI）",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/housing-and-rent/utilities-and-waste/index"
-  }
+  },
+  "position": 3,
+  "collapsible": true
 }

@@ -1,0 +1,10 @@
+{
+  "label": "緊急聯絡與報警電話清單（Emergenze e sicurezza）",
+  "position": 5,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "arrival-prep/arrival-and-setup/emergenze-e-sicurezza/index"
+  },
+  "collapsible": true
+}

@@ -1,8 +1,10 @@
 {
-  "label": "🔐 數位身分與 SPID（Identità digitale）",
-  "collapsed": false,
+  "label": "電子身份與SPID（Identità digitale）",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/permits-and-ids/spid-identita-digitale/index"
-  }
+  },
+  "position": 5,
+  "collapsible": true
 }

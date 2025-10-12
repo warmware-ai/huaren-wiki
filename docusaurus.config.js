@@ -59,6 +59,12 @@ const config = {
 
   themeConfig: {
     image: 'img/social-card.png',
+    docs: {
+      sidebar: {
+        hideable: true,              // 允许用户手动收起
+        autoCollapseCategories: true // 展开一个分类时，自动收起同级其它分类
+      },
+    },
     navbar: {
       title: 'Huaren Wiki',
       logo: { alt: 'Huaren Wiki', src: 'img/huaren-wiki.png' },

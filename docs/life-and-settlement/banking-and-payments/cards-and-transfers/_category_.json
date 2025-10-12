@@ -1,8 +1,10 @@
 {
-  "label": "💳 銀行卡與轉帳",
-  "collapsed": false,
+  "label": "銀行卡與轉帳（Carte e bonifici）",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/banking-and-payments/cards-and-transfers/index"
-  }
+  },
+  "position": 2,
+  "collapsible": true
 }

@@ -1,8 +1,10 @@
 {
-  "label": "🩺 醫療卡與 SSN 註冊（Tessera sanitaria）",
-  "collapsed": false,
+  "label": "醫療卡與SSN註冊（Tessera sanitaria）",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/permits-and-ids/tessera-sanitaria/index"
-  }
+  },
+  "position": 4,
+  "collapsible": true
 }

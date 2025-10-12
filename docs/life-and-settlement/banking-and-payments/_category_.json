@@ -1,9 +1,10 @@
 {
-  "label": "💶 銀行與支付",
-  "position": 5,
-  "collapsed": false,
+  "label": "💳 銀行與支付",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/banking-and-payments/index"
-  }
+  },
+  "position": 5,
+  "collapsible": true
 }

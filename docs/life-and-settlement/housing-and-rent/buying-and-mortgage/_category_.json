@@ -1,8 +1,10 @@
 {
-  "label": "🏡 買房與貸款流程",
-  "collapsed": false,
+  "label": "買房與貸款流程（Acquisto casa e mutuo）",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/housing-and-rent/buying-and-mortgage/index"
-  }
+  },
+  "position": 5,
+  "collapsible": true
 }

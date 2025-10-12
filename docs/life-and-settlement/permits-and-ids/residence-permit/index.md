@@ -1,10 +1,8 @@
----
-title: 🪪 居留（Permesso di soggiorno）
-description: 居留類型、申請、續簽與法律依據。
----
+---
+id: index
+title: "居留（Permesso di soggiorno）"
+description: "佔位頁（L3）。未來將在此展開至 L4/L5 的實務內容與操作指南。"
+---
+
 
-- 居留類型與適用人群
-- 首次申請流程
-- 居留續簽與預約
-- 特殊情況與轉換
-- 法律依據與資源
+> 本頁為 **L3 占位**。之後會補充：流程圖、文件清單、常見問答、實操示例等。

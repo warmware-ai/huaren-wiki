@@ -1,9 +1,8 @@
----
-title: 📝 合同註冊與押金
-description: 合同註冊、押金管理、續簽終止與押金糾紛。
----
+---
+id: index
+title: "合同註冊與押金（Registrazione contratto e caparra）"
+description: "佔位頁（L3）。未來將在此展開至 L4/L5 的實務內容與操作指南。"
+---
+
 
-- 合同註冊流程（Registrazione contratto）
-- 押金與保證金管理
-- 合同續簽與終止
-- 退租與押金返還糾紛
+> 本頁為 **L3 占位**。之後會補充：流程圖、文件清單、常見問答、實操示例等。

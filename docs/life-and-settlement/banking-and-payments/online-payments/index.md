@@ -1,10 +1,8 @@
----
-title: 💸 線上支付（PagoPA／電商／行動支付）
-description: PagoPA、電商支付、行動錢包、安全與退款。
----
+---
+id: index
+title: "在線支付（PagoPA e pagamenti digitali）"
+description: "佔位頁（L3）。未來將在此展開至 L4/L5 的實務內容與操作指南。"
+---
+
 
-- PagoPA 系統介紹與使用
-- 電商支付方式對比
-- 行動支付平台（Apple Pay／Google Pay）
-- 支付安全與退款流程
-- 與中國支付方式對接（支付寶／微信）
+> 本頁為 **L3 占位**。之後會補充：流程圖、文件清單、常見問答、實操示例等。

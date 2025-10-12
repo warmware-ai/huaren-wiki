@@ -1,8 +1,10 @@
 {
-  "label": "🧾 線上政務與 App 使用",
-  "collapsed": false,
+  "label": "線上政務與App使用（App e servizi pubblici）",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/digital-and-comms/online-e-gov-apps/index"
-  }
+  },
+  "position": 4,
+  "collapsible": true
 }

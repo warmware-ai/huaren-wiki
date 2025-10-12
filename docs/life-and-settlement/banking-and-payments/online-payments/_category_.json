@@ -1,8 +1,10 @@
 {
-  "label": "💸 線上支付（PagoPA／電商／行動支付）",
-  "collapsed": false,
+  "label": "在線支付（PagoPA e pagamenti digitali）",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/banking-and-payments/online-payments/index"
-  }
+  },
+  "position": 3,
+  "collapsible": true
 }

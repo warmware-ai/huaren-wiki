@@ -1,8 +1,10 @@
 {
-  "label": "🧩 稅號（Codice fiscale）",
-  "collapsed": false,
+  "label": "稅號（Codice fiscale）",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/permits-and-ids/codice-fiscale/index"
-  }
+  },
+  "position": 2,
+  "collapsible": true
 }

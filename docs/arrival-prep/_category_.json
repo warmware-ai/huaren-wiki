@@ -1,0 +1,10 @@
+{
+  "label": "✈️ 來意準備",
+  "position": 6,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "arrival-prep/index"
+  },
+  "collapsible": true
+}

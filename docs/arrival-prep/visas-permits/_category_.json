@@ -1,0 +1,10 @@
+{
+  "label": "🗂️ 簽證與居留申請",
+  "position": 1,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "arrival-prep/visas-permits/index"
+  },
+  "collapsible": true
+}

@@ -1,10 +1,8 @@
----
-title: 🔐 數位身分與 SPID（Identità digitale）
-description: SPID 註冊、使用場景、PEC 與安全建議。
----
+---
+id: index
+title: "電子身份與SPID（Identità digitale）"
+description: "佔位頁（L3）。未來將在此展開至 L4/L5 的實務內容與操作指南。"
+---
+
 
-- SPID 概念與重要性
-- 註冊流程與提供商對比
-- 使用場景與實操
-- 電子簽名與 PEC 郵箱
-- 安全與身分驗證
+> 本頁為 **L3 占位**。之後會補充：流程圖、文件清單、常見問答、實操示例等。

@@ -1,0 +1,10 @@
+{
+  "label": "城市選擇與生活成本比較（Costo della vita）",
+  "position": 2,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "arrival-prep/integration-culture/costo-della-vita/index"
+  },
+  "collapsible": true
+}

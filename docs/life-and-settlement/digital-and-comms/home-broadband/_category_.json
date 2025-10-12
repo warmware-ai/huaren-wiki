@@ -1,8 +1,10 @@
 {
-  "label": "🏠 家庭寬頻與光纖（Fibra / ADSL）",
-  "collapsed": false,
+  "label": "家庭寬帶與光纖（Fibra / ADSL）",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/digital-and-comms/home-broadband/index"
-  }
+  },
+  "position": 2,
+  "collapsible": true
 }

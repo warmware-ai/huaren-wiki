@@ -1,8 +1,10 @@
 {
-  "label": "🗺️ 戶籍登記與遷移",
-  "collapsed": false,
+  "label": "戶籍登記與遷移（Residenza e cambio indirizzo）",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/housing-and-rent/residenza-and-move/index"
-  }
+  },
+  "position": 4,
+  "collapsible": true
 }

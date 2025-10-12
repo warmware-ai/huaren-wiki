@@ -1,8 +1,10 @@
 {
-  "label": "🧭 找房渠道與租約類型",
-  "collapsed": false,
+  "label": "找房渠道與租約類型（Canali e tipologie di contratto）",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/housing-and-rent/search-channels-and-lease-types/index"
-  }
+  },
+  "position": 1,
+  "collapsible": true
 }

@@ -1,8 +1,10 @@
 {
-  "label": "☎️ 客服申訴與合同解約",
-  "collapsed": false,
+  "label": "客服申訴與合同解約（Reclami e disdetta contratti）",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/digital-and-comms/customer-service-complaints/index"
-  }
+  },
+  "position": 5,
+  "collapsible": true
 }

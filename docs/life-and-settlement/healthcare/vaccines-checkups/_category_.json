@@ -1,8 +1,10 @@
 {
   "label": "💉 疫苗與體檢",
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/healthcare/vaccines-checkups/index"
-  }
+  },
+  "collapsible": true,
+  "position": 4
 }

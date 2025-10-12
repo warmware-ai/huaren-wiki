@@ -1,7 +1,9 @@
----
-title: 💉 疫苗與體檢
-description: 兒童疫苗、成人疫苗、入學/駕照/工作體檢與私公立差異。
----
+---
+title: "💉 疫苗與體檢"
+description: "兒童疫苗、成人疫苗、入學/駕照/工作體檢與私公立差異。"
+id: index
+---
+
 
 - 兒童疫苗計畫（Vaccinazioni obbligatorie）
 - 成人與流感疫苗

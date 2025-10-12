@@ -1,9 +1,8 @@
----
-title: 🗺️ 戶籍登記與遷移
-description: Residenza 登記、改地址、與居留關係及核查。
----
+---
+id: index
+title: "戶籍登記與遷移（Residenza e cambio indirizzo）"
+description: "佔位頁（L3）。未來將在此展開至 L4/L5 的實務內容與操作指南。"
+---
+
 
-- Residenza 登記流程
-- 遷居與改地址手續
-- 外籍居民與居留的關係
-- 市政府核查與家庭戶註冊
+> 本頁為 **L3 占位**。之後會補充：流程圖、文件清單、常見問答、實操示例等。

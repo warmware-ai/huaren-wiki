@@ -1,10 +1,8 @@
----
-title: 🪧 身分證與居民登記（Carta d’identità / Residenza）
-description: 居民登記、身分證申請與住所變更。
----
+---
+id: index
+title: "身份證與居民登記（Carta d’identità / Residenza）"
+description: "佔位頁（L3）。未來將在此展開至 L4/L5 的實務內容與操作指南。"
+---
+
 
-- 居民登記（Residenza）辦理
-- 身分證（Carta d’identità）申請
-- 數位身分證（Elettronica）
-- 住所變更與遷移
-- 使用場景與法律效力
+> 本頁為 **L3 占位**。之後會補充：流程圖、文件清單、常見問答、實操示例等。

@@ -1,9 +1,10 @@
 {
   "label": "🏠 生活與安居",
-  "position": 1,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/index"
-  }
+  },
+  "position": 1,
+  "collapsible": true
 }

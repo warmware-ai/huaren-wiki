@@ -1,8 +1,9 @@
 {
   "label": "🏥 私立診所與醫保報銷",
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/healthcare/private-clinics-reimburse/index"
-  }
+  },
+  "collapsible": true
 }

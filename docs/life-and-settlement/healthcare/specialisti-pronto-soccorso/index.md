@@ -1,7 +1,9 @@
----
-title: 🚑 專科與急診流程
-description: 專科門診、急診分級、費用報銷與留學生處理。
----
+---
+title: "🚑 專科與急診流程"
+description: "專科門診、急診分級、費用報銷與留學生處理。"
+id: index
+---
+
 
 - 專科門診與掛號方式
 - 急診體系（Pronto Soccorso）結構

@@ -1,8 +1,10 @@
 {
-  "label": "🧑‍⚕️ 家庭醫生註冊（Medico di base）",
-  "collapsed": false,
+  "label": "家庭醫生註冊（Medico di base）",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/healthcare/medico-di-base/index"
-  }
+  },
+  "position": 1,
+  "collapsible": true
 }

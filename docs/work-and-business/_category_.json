@@ -1,0 +1,10 @@
+{
+  "label": "💼 工作與經營",
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "work-and-business/index"
+  },
+  "position": 2,
+  "collapsible": true
+}

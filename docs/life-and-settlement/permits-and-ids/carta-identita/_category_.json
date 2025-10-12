@@ -1,8 +1,10 @@
 {
-  "label": "🪧 身分證與居民登記（Carta d’identità / Residenza）",
-  "collapsed": false,
+  "label": "身份證與居民登記（Carta d’identità / Residenza）",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/permits-and-ids/carta-identita/index"
-  }
+  },
+  "position": 3,
+  "collapsible": true
 }

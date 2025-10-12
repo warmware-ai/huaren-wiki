@@ -1,0 +1,10 @@
+{
+  "label": "入境與海關流程（Controllo doganale e frontiera）",
+  "position": 1,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "arrival-prep/arrival-and-setup/controllo-doganale-e-frontiera/index"
+  },
+  "collapsible": true
+}

@@ -1,8 +1,10 @@
 {
-  "label": "📱 手機卡",
-  "collapsed": false,
+  "label": "手機卡與運營商（Operatori mobili）",
+  "collapsed": true,
   "link": {
     "type": "doc",
     "id": "life-and-settlement/digital-and-comms/mobile-sim/index"
-  }
+  },
+  "position": 1,
+  "collapsible": true
 }

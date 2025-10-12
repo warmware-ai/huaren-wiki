@@ -1,12 +1,14 @@
----
-title: 🌐 數位與通信服務（Servizi digitali e telecom）
-description: 手機卡、家用網路、數位身分、政務 App 與申訴導覽。
----
+---
+id: index
+title: "📱 數字與通信服務"
+description: "「數字與通信服務」主題組的 L2 總覽頁面，列出可點擊進入的 L3 條目。"
+---
+
 
-> 本頁為 **Level-2 導覽**，僅列本組所有主題（L3）。
+> 本頁為 **Level‑2 總覽**（L2）。點擊下列條目進入對應的 L3 子主題。
 
-- [📱 手機卡](./mobile-sim/)
-- [🏠 家庭寬頻與光纖](./home-broadband/)
-- [🔏 數位身分與 PEC 郵箱](./digital-identity-pec/)
-- [🧾 線上政務與 App 使用](./online-e-gov-apps/)
-- [☎️ 客服申訴與合同解約](./customer-service-complaints/)
+- [手機卡與運營商（Operatori mobili）](./mobile-sim/)
+- [家庭寬帶與光纖（Fibra / ADSL）](./home-broadband/)
+- [數字身份與PEC郵箱（PEC e identità digitale）](./digital-identity-pec/)
+- [線上政務與App使用（App e servizi pubblici）](./online-e-gov-apps/)
+- [客服申訴與合同解約（Reclami e disdetta contratti）](./customer-service-complaints/)
