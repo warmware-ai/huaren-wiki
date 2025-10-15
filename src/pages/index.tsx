@@ -23,8 +23,8 @@ const shortcuts: Card[] = [
   { title: '家庭醫生 Medico di base', emoji: '🏥', to: '/docs/life-and-settlement/healthcare/medico-di-base/', desc: '註冊與更換' },
   { title: '手機卡/寬帶', emoji: '📱', to: '/docs/life-and-settlement/digital-and-comms/mobile-sim/', desc: '套餐對比與開通' },
   { title: '銀行開戶', emoji: '💳', to: '/docs/life-and-settlement/banking-and-payments/account-opening/', desc: '文件與流程' },
-  { title: 'ISEE 申報', emoji: '💶', to: '/docs/family-welfare/allowances-benefits/isee/', desc: '流程與用途' },
-  { title: 'Universitaly 指南', emoji: '🧭', to: '/docs/arrival-prep/universitaly-preiscrizione/universitaly-guide/', desc: '註冊與上傳' },
+  { title: 'ISEE 申報', emoji: '💶', to: '/docs/family-welfare/allowances-benefits/', desc: '流程與用途' },
+  { title: 'Universitaly 指南', emoji: '🧭', to: '/docs/arrival-prep/universitaly-preiscrizione/', desc: '註冊與上傳' },
   { title: '消費維權', emoji: '🛡️', to: '/docs/rules-and-rights/consumer-protection/complaints/', desc: '申訴與協會' },
 ];
 
