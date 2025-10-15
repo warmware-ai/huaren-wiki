@@ -1,0 +1,9 @@
+{
+  "label": "選擇稅務制度（Forfettario / Ordinario）",
+  "collapsed": true,
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  }
+}

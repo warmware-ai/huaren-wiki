@@ -1,0 +1,9 @@
+{
+  "label": "啟用並查詢 INPS 個人帳戶",
+  "collapsed": true,
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  }
+}

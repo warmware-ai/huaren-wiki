@@ -1,0 +1,9 @@
+{
+  "label": "管理薪酬、工時與假期",
+  "collapsed": true,
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "index"
+  }
+}

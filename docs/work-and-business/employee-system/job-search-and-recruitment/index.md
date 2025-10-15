@@ -1,8 +1,13 @@
----
-id: index
-title: "找工作與招聘渠道（Ricerca di lavoro e canali di assunzione）"
-description: "佔位頁（L3）。未來將在此展開至 L4/L5 的實務內容與操作指南。"
----
-
+---
+id: "index"
+title: "找工作與招聘渠道（Ricerca di lavoro e canali di assunzione）"
+description: "（自動生成）本頁列出此主題下的操作指南（L4）。"
+---
 
-> 本頁為 **L3 占位**。之後會補充：流程圖、文件清單、常見問答、實操示例等。
+> 本頁為 **Level-3 目錄**。點擊進入具體操作指南（L4）。
+
+- [瀏覽與比較求職管道](./compare-job-channels/)
+- [註冊主流網站並上傳履歷](./register-job-sites/)
+- [登記 Centro per l’Impiego 並使用服務](./register-centro-impiego/)
+- [參加招聘會與校園招募](./join-job-fairs/)
+- [辨識與防範非法招聘詐騙](./avoid-job-scams/)
