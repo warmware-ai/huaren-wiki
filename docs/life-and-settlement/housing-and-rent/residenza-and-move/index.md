@@ -6,3 +6,9 @@ description: "佔位頁（L3）。未來將在此展開至 L4/L5 的實務內容
 
 
 > 本頁為 **L3 占位**。之後會補充：流程圖、文件清單、常見問答、實操示例等。
+
+## 子頁面
+
+- [申報居住與戶籍登記](./declare-residence/)
+- [辦理遷移（Cambio Residenza）](./request-move/)
+- [同步學校/醫療/郵政地址](./sync-services/)

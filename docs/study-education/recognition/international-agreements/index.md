@@ -1,21 +1,29 @@
+---
+id: index
+title: "國際與跨國認證（Accordi internazionali）"
+description: "中意教育協議與歐盟內互認框架。"
+---
+
 ---
-id: index
-title: "國際與跨國認證（Accordi internazionali）"
-description: "中意教育協議與歐盟內互認框架。"
----
+        ---
 
----
-        ---
-
-        > 本頁為 **Level‑3 區內容占位**（後續將展開為 L4/L5 條目）。
-
-        **概要**
-        中意教育協議與歐盟內互認框架。
-（建議展開至 L4：協議摘要 + 參考文件）
-
-        **接下來可展開**
-        - 政策與流程圖解
-        - 所需文件樣式與下載
-        - 線上/線下辦理入口
-        - 常見錯誤與避坑
+        > 本頁為 **Level‑3 區內容占位**（後續將展開為 L4/L5 條目）。
+
+        **概要**
+        中意教育協議與歐盟內互認框架。
+（建議展開至 L4：協議摘要 + 參考文件）
+
+        **接下來可展開**
+        - 政策與流程圖解
+        - 所需文件樣式與下載
+        - 線上/線下辦理入口
+        - 常見錯誤與避坑
         - FAQ 與案例
+
+## 進一步主題（L4）
+
+- [歐盟互認框架概覽](./eu-mutual-recognition/)
+- [中意教育協議要點](./italy-china-agreements/)
+- [Erasmus 等交換計畫](./erasmus-programmes/)
+- [跨國流動中的學歷承認](./mobility-recognition/)
+- [參考文件與官方連結](./references-links/)
